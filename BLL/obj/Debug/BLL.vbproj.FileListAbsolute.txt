@@ -1,0 +1,24 @@
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\BLL\bin\Debug\BLL.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\BLL\bin\Debug\BLL.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\BLL\bin\Debug\BLL.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\BLL\bin\Debug\DAL.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\BLL\bin\Debug\DAL.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\BLL\bin\Debug\DAL.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\BLL\obj\Debug\BLL.Resources.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\BLL\obj\Debug\BLL.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\BLL\obj\Debug\BLL.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\BLL\obj\Debug\BLL.pdb
+E:\UIT\QuanLyKhachSan\BLL\bin\Debug\BLL.dll
+E:\UIT\QuanLyKhachSan\BLL\bin\Debug\BLL.pdb
+E:\UIT\QuanLyKhachSan\BLL\bin\Debug\BLL.xml
+E:\UIT\QuanLyKhachSan\BLL\bin\Debug\DAL.dll
+E:\UIT\QuanLyKhachSan\BLL\bin\Debug\DAL.pdb
+E:\UIT\QuanLyKhachSan\BLL\bin\Debug\DAL.xml
+E:\UIT\QuanLyKhachSan\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+E:\UIT\QuanLyKhachSan\BLL\obj\Debug\BLL.Resources.resources
+E:\UIT\QuanLyKhachSan\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+E:\UIT\QuanLyKhachSan\BLL\obj\Debug\BLL.dll
+E:\UIT\QuanLyKhachSan\BLL\obj\Debug\BLL.xml
+E:\UIT\QuanLyKhachSan\BLL\obj\Debug\BLL.pdb

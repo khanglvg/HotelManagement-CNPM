@@ -1,0 +1,68 @@
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\bin\Debug\GUI_Layer.exe.config
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\bin\Debug\GUI_Layer.exe
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\bin\Debug\GUI_Layer.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\bin\Debug\GUI_Layer.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\bin\Debug\BLL.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\bin\Debug\BLL.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\bin\Debug\BLL.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.vbprojResolveAssemblyReference.cache
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.mainForm.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.Resources.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.vbproj.GenerateResource.Cache
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.exe
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.LapPhieuThuePhong.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.TraCuuPhong.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.LapHoaDonThanhToan.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\bin\Debug\DAL.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\bin\Debug\DAL.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\bin\Debug\DAL.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.LapDanhMucPhong.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\bin\Debug\MetroFramework.Design.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\bin\Debug\MetroFramework.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\bin\Debug\MetroFramework.Fonts.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.Login.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.LapHoaDon_ChonKhachHang.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.ThayDoiQuyDinh.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.ThayDoiTyLePhuThu.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.ThayDoiLoaiPhong.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.ThayDoiSoLuongKhach.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.LapBaoCaoThang.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.BaoCaoMatDo.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.BaoCaoDoanhThu.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\bin\Debug\GUI_Layer.exe.config
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.exe
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.xml
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.pdb
+E:\UIT\QuanLyKhachSan\GUI_Layer\bin\Debug\GUI_Layer.exe
+E:\UIT\QuanLyKhachSan\GUI_Layer\bin\Debug\GUI_Layer.pdb
+E:\UIT\QuanLyKhachSan\GUI_Layer\bin\Debug\GUI_Layer.xml
+E:\UIT\QuanLyKhachSan\GUI_Layer\bin\Debug\BLL.dll
+E:\UIT\QuanLyKhachSan\GUI_Layer\bin\Debug\MetroFramework.Design.dll
+E:\UIT\QuanLyKhachSan\GUI_Layer\bin\Debug\MetroFramework.dll
+E:\UIT\QuanLyKhachSan\GUI_Layer\bin\Debug\MetroFramework.Fonts.dll
+E:\UIT\QuanLyKhachSan\GUI_Layer\bin\Debug\DAL.dll
+E:\UIT\QuanLyKhachSan\GUI_Layer\bin\Debug\BLL.pdb
+E:\UIT\QuanLyKhachSan\GUI_Layer\bin\Debug\BLL.xml
+E:\UIT\QuanLyKhachSan\GUI_Layer\bin\Debug\DAL.pdb
+E:\UIT\QuanLyKhachSan\GUI_Layer\bin\Debug\DAL.xml
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.vbprojResolveAssemblyReference.cache
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.BaoCaoDoanhThu.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.BaoCaoMatDo.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.mainForm.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.LapBaoCaoThang.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.LapDanhMucPhong.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.LapHoaDonThanhToan.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.LapHoaDon_ChonKhachHang.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.LapPhieuThuePhong.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.Login.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.Resources.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.ThayDoiLoaiPhong.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.ThayDoiQuyDinh.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.ThayDoiSoLuongKhach.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.ThayDoiTyLePhuThu.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.TraCuuPhong.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.vbproj.GenerateResource.Cache
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.NewUserAccount.resources
+E:\UIT\QuanLyKhachSan\GUI_Layer\obj\Debug\GUI_Layer.ChangePassword.resources

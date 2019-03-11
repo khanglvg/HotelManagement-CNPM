@@ -1,0 +1,10 @@
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\DTODLL\bin\Debug\DTODLL.dll.config
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\DTODLL\bin\Debug\DTODLL.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\DTODLL\bin\Debug\DTODLL.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\DTODLL\bin\Debug\DTODLL.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\DTODLL\obj\Debug\DTODLL.vbprojResolveAssemblyReference.cache
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\DTODLL\obj\Debug\DTODLL.Resources.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\DTODLL\obj\Debug\DTODLL.vbproj.GenerateResource.Cache
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\DTODLL\obj\Debug\DTODLL.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\DTODLL\obj\Debug\DTODLL.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\QuanLyKhachSan\DTODLL\obj\Debug\DTODLL.pdb

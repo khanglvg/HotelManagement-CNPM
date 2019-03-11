@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{67950BEB-99CB-4CE7-B954-0CA7407048DB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>GUI_Layer.My.MyApplication</StartupObject>
+    <RootNamespace>GUI_Layer</RootNamespace>
+    <AssemblyName>GUI_Layer</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>GUI_Layer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>GUI_Layer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaoCaoDoanhThu.Designer.vb">
+      <DependentUpon>BaoCaoDoanhThu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BaoCaoDoanhThu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCaoMatDo.Designer.vb">
+      <DependentUpon>BaoCaoMatDo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BaoCaoMatDo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.Designer.vb">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LapBaoCaoThang.Designer.vb">
+      <DependentUpon>LapBaoCaoThang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LapBaoCaoThang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LapDanhMucPhong.Designer.vb">
+      <DependentUpon>LapDanhMucPhong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LapDanhMucPhong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LapHoaDonThanhToan.Designer.vb">
+      <DependentUpon>LapHoaDonThanhToan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LapHoaDonThanhToan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LapHoaDon_ChonKhachHang.Designer.vb">
+      <DependentUpon>LapHoaDon_ChonKhachHang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LapHoaDon_ChonKhachHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LapPhieuThuePhong.Designer.vb">
+      <DependentUpon>LapPhieuThuePhong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LapPhieuThuePhong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NewUserAccount.Designer.vb">
+      <DependentUpon>NewUserAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NewUserAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThayDoiLoaiPhong.Designer.vb">
+      <DependentUpon>ThayDoiLoaiPhong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThayDoiLoaiPhong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThayDoiQuyDinh.Designer.vb">
+      <DependentUpon>ThayDoiQuyDinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThayDoiQuyDinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThayDoiSoLuongKhach.Designer.vb">
+      <DependentUpon>ThayDoiSoLuongKhach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThayDoiSoLuongKhach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThayDoiTyLePhuThu.Designer.vb">
+      <DependentUpon>ThayDoiTyLePhuThu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThayDoiTyLePhuThu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TraCuuPhong.Designer.vb">
+      <DependentUpon>TraCuuPhong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TraCuuPhong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BaoCaoDoanhThu.resx">
+      <DependentUpon>BaoCaoDoanhThu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCaoMatDo.resx">
+      <DependentUpon>BaoCaoMatDo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassword.resx">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LapBaoCaoThang.resx">
+      <DependentUpon>LapBaoCaoThang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LapDanhMucPhong.resx">
+      <DependentUpon>LapDanhMucPhong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LapHoaDonThanhToan.resx">
+      <DependentUpon>LapHoaDonThanhToan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LapHoaDon_ChonKhachHang.resx">
+      <DependentUpon>LapHoaDon_ChonKhachHang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LapPhieuThuePhong.resx">
+      <DependentUpon>LapPhieuThuePhong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewUserAccount.resx">
+      <DependentUpon>NewUserAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThayDoiLoaiPhong.resx">
+      <DependentUpon>ThayDoiLoaiPhong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThayDoiQuyDinh.resx">
+      <DependentUpon>ThayDoiQuyDinh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThayDoiSoLuongKhach.resx">
+      <DependentUpon>ThayDoiSoLuongKhach.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThayDoiTyLePhuThu.resx">
+      <DependentUpon>ThayDoiTyLePhuThu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TraCuuPhong.resx">
+      <DependentUpon>TraCuuPhong.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.vbproj">
+      <Project>{e3d05748-f84a-4e65-a81e-32851b9b238b}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exi11t.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
